@@ -5,3 +5,7 @@ proyecto de grado de un electrocardiograma, que facilita el análisis del mismo 
 * Ritmo cardiaco
 * Determinación del eje cardiaco
 * Morfología de la onda P
+* intervalo P-R
+* Segmento ST y anormalidad de la onta T
+* Hipertrofia izquierda o Derecha
+* Bloqueo de rama
