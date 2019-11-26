@@ -1,7 +1,7 @@
 # Electrocardiograma
-proyecto de grado de un electrocardiograma, que facilita el analisis del mismo y que sera una herramienta para el medico
+proyecto de grado de un electrocardiograma, que facilita el análisis del mismo y que sera una herramienta para el médico
 
 * Frecuencia cardiaca
 * Ritmo cardiaco
-* Determinacion del eje cardiaco
-* Morfologia de la onda P
+* Determinación del eje cardiaco
+* Morfología de la onda P
