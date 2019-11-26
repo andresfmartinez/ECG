@@ -13,7 +13,7 @@
 3. **Determinación del eje eléctrico medio**
 * Existen diferentes metodos para hallar el angulo del eje cardiaco, pero en este caso tomaremos los 2 mas confiables y utilizados
     * Metodo de tablas de _Tilley_
-    * Metodo matemático (_con formula matemática_)
+    * Metodo matemático (_con formula matemática_).
 4. **Medicion de ondas e intervalos**
 * Onda P
     * Ver Morfología
