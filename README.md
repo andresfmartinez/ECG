@@ -17,7 +17,7 @@
 4. **Medicion de ondas e intervalos**
 * Onda P
     * Ver Morfología
-        1. [P pulmonale](/imagenes/ondappulmonale.PNG)
+        1. [P pulmonale](/imagenes/onda_p_medicion.PNG)
         2. [P mitrale](/imagenes/ondapmitrale.PNG)
         3. P _Mellada_
         4. P _Normal_
