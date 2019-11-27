@@ -41,4 +41,4 @@
     
     
     
-    ![alt text](https://github.com/andresfmartinez/ECG/imagenes/onda_p_medicion.PNG "Logo Title Text 1")
+    ![alt text](https://raw.githubusercontent.com/andresfmartinez/ECG/master/imagenes/onda_p_medicion.PNG "Logo Title Text 1")
