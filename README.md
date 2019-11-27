@@ -36,3 +36,9 @@
     1. Medir Duración (seg)(ancho)
 * Onda T
     1. de ser < del 25% de la onda R
+    
+    
+    
+    
+    
+    ![alt text](https://raw.githubusercontent.com/andresfmartinez/ECG/master/imagenes/onda_p_medicion.PNG "Logo Title Text 1")
